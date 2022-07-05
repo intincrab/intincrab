@@ -1,16 +1,14 @@
-### Hi there 👋
+###About myself
 
-<!--
-**intincrab/intincrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! There 🙋 my name is Ajay. I am a student going to join college this year. I have been learning to code 💻 since November 2020 with python 🐍 as the first language. Currently, I am focusing on web development with The Odin Project
+Feel free to look at my profile and reach out to me.
 
-Here are some ideas to get you started:
+## Technolgies & Tools 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-HTML_5-blue?style=flat&logo=html5&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-CSS_3-blue?style=flat&logo=css3&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Editor-VS_code-blue?style=flat&logo=vsco&labelColor=black&color=silver)
+![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&labelColor=black&color=silver)
+![](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=ubuntu&labelColor=black&color=silver)
