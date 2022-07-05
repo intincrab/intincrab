@@ -12,3 +12,9 @@ Feel free to look at my profile and reach out to me.
 ![](https://img.shields.io/badge/Editor-VS_code-blue?style=flat&logo=vsco&labelColor=black&color=silver)
 ![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&labelColor=black&color=silver)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=ubuntu&labelColor=black&color=silver)
+
+## 📊 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=intincrab&show_icons=true&theme=vision-friendly-dark" alt="Mudit's GitHub Stats" align="center" width="50%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intincrab&layout=compact&theme=vision-friendly-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="50%" />
