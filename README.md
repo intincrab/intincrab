@@ -1,4 +1,4 @@
-###About myself
+##About myself
 
 Hello! There 🙋 my name is Ajay. I am a student going to join college this year. I have been learning to code 💻 since November 2020 with python 🐍 as the first language. Currently, I am focusing on web development with The Odin Project
 Feel free to look at my profile and reach out to me.
