@@ -12,10 +12,3 @@ Feel free to look at my profile and reach out to me.
 ![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=git&labelColor=black&color=silver)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=ubuntu&labelColor=black&color=silver)
 
-## 📊 My GitHub Stats
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=intincrab-git&show_icons=true&locale=en&layout=compact" alt="intincrab-git" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=intincrab-git&show_icons=true&locale=en" alt="intincrab-git" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=intincrab-git&" alt="intincrab-git" /></p>
