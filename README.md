@@ -4,7 +4,7 @@
 - 🍓🥝  Open source enthusiast
 - 🚴⛰️  I like cycling
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,pytorch,svelte,tailwind,react,next,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,pytorch,svelte,tailwind,react,next,go)](https://skillicons.dev)
 
 <!---
 CSS injection, worked for a day, got fixed later sadly : https://x.com/cloud11665/status/1799136093071163396
